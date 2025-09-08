@@ -1,0 +1,14 @@
+*.egg-info*
+*checkpoints*
+*.swp
+*.log
+*.pyc*
+*.DS_*tore
+.vscode
+*.pdf
+*.svg
+*pytest*
+*.venv
+*.VSCodeCounter/
+docs/build
+sandbox/*
