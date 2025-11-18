@@ -223,36 +223,7 @@ Both models use:
 
 ---
 
-## Citation
-
-If you use PredElute in your research, please cite:
-
-```
-[Citation information to be added]
-```
-
----
-
-## License
-
 MIT License - See LICENSE file for details
-
----
-
-## Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request with clear description of changes
-
----
-
-## Contact
-
-For questions, issues, or collaboration inquiries:
-- Open an issue on GitHub
-- Contact: [Your contact information]
 
 ---
 
