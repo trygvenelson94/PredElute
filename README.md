@@ -235,6 +235,11 @@ MIT License - See LICENSE file for details
 
 ---
 
+## Aknowledgements
+- Cramer Lab - Rensselaer Polytechnic Institute
+
+---
+
 ## Notes
 
 - Models are trained on specific protein sets and may not generalize to highly dissimilar proteins
